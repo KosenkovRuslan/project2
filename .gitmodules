@@ -1,4 +1,4 @@
 [submodule "wiki"]
     path = wiki
-    url = git@github.com:KosenkovRuslan/mam_wiki.git
+    url = git@github.com:KosenkovRuslan/mol_wiki.git
 	
